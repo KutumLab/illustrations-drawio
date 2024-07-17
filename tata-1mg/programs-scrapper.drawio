@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2024-07-01T11:12:25.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="3OVwKY1p5StB_L-ICQ-6" version="23.1.5" type="device">
+  <diagram name="Page-1" id="MH3UJk7US3w_HbbtkspL">
+    <mxGraphModel dx="955" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-30" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=9;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="320" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;drugscrapper&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;|- &lt;i&gt;spiders&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|-&amp;nbsp; __init__.py&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;|-&amp;nbsp; 01-drug-url-extracter.py&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&#x9;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;|-&amp;nbsp; 02-invalid-url-extractor.py&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|-&amp;nbsp; 03-drug-url-final.py&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|-&amp;nbsp; 04-json-dump.py&lt;br&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |- __init__.py&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- items.py&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- middlewares.py&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- pipelines.py&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- settings.py&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;data&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- 01-drug-url-scrape&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|-&amp;nbsp; drug-urls.csv&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- 02-url-check&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|-&amp;nbsp; invalid.log&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- 03-drug-url-final&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|- drug-urls-final.csv&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- 04-json-raw&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|- drug-1.json&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp;|- drug-2.json&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|- ...&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- 05-json-filtered&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|- drug-1-filtered.json&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|- drug-2-filtered.json&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; |&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;|- ...&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;database&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- ...&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;logs&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|- ...&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontSize=15;spacing=5;verticalAlign=top;horizontal=1;spacingLeft=5;labelBackgroundColor=none;rounded=1;arcSize=8;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="390" y="20" width="260" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;endArrow=blockThin;endFill=0;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-2" target="aXLW1hzsgA9_nT5rrwnn-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-2" target="aXLW1hzsgA9_nT5rrwnn-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-2" value="Extract Drug Names and URLs" style="whiteSpace=wrap;html=1;fontSize=14;spacing=4;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="30" y="60" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-3" value="drug-urls.json" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;spacing=4;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="213.78" y="67.5" width="102.44" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-5" target="aXLW1hzsgA9_nT5rrwnn-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-5" value="Extract Invalid URLs" style="whiteSpace=wrap;html=1;fontSize=14;spacing=4;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="30" y="140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;endArrow=blockThin;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-5" target="aXLW1hzsgA9_nT5rrwnn-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="174" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-8" value="invalid.log" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;spacing=4;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="210" y="145" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-9" target="aXLW1hzsgA9_nT5rrwnn-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-9" value="Update CSV with working URLS" style="whiteSpace=wrap;html=1;fontSize=14;spacing=4;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="30" y="210" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;endArrow=blockThin;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-9" target="aXLW1hzsgA9_nT5rrwnn-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="240.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-14" value="drug-urls-final.csv" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;spacing=4;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="210" y="215" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-15" target="aXLW1hzsgA9_nT5rrwnn-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-15" value="Scrape and store raw dump of JSONs" style="whiteSpace=wrap;html=1;fontSize=14;spacing=4;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="30" y="290" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;endArrow=blockThin;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-15" target="aXLW1hzsgA9_nT5rrwnn-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="332.12" as="sourcePoint" />
+            <mxPoint x="210.00012193049326" y="323.0322580645161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-19" value="./json-raw/" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;spacing=4;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="210" y="303" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-20" target="aXLW1hzsgA9_nT5rrwnn-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-20" value="Parse JSONs" style="whiteSpace=wrap;html=1;fontSize=14;spacing=4;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="30" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;endArrow=blockThin;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-20" target="aXLW1hzsgA9_nT5rrwnn-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="407" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-23" value="./json-filtered/" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;spacing=4;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="210" y="368" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-24" value="Map to designed database schema" style="whiteSpace=wrap;html=1;fontSize=14;spacing=4;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="30" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;endArrow=blockThin;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aXLW1hzsgA9_nT5rrwnn-24" target="aXLW1hzsgA9_nT5rrwnn-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="445.87" as="sourcePoint" />
+            <mxPoint x="210.00017346132393" y="449.0606060606061" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-28" value="./database/" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;spacing=4;shadow=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="210" y="435" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-29" value="Workflow" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="125" y="23" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXLW1hzsgA9_nT5rrwnn-31" value="Directory Structure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontStyle=1;spacing=0;rounded=1;arcSize=50;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="435" y="28" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2024-06-04T12:29:47.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="f-A-30_t0_eihQ8QhdUN" version="23.1.5" type="device">
+  <diagram name="Page-1" id="HCKNI1tXCK_-lPh6rGAl">
+    <mxGraphModel dx="1764" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-4" value="Health Informatics&lt;br style=&quot;font-size: 15px;&quot;&gt;In India" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-5" value="Facilitate&lt;br&gt;Open Source Indian&lt;br&gt;Drug Name &amp;amp; Salt Specification Database&lt;br&gt;in a structured format" style="ellipse;html=1;verticalAlign=middle;spacingBottom=7;spacingTop=-7;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-6" value="Tata-1mg " style="ellipse;html=1;verticalAlign=middle;spacingBottom=0;spacingTop=0;spacing=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-8" value="Local Support&lt;br&gt;- No open source drug name database is available to facilitate health informatics in India.&lt;br&gt;- Indian drug brand name &amp;amp; salt composition database. Tata-1mg" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-9" value="Global Support&lt;br&gt;- CDM Specification Tables&lt;br&gt;- Tata-1mg&amp;nbsp;→ CDM compliant&amp;nbsp;→ global database" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-11" value="Additional:&lt;div&gt;Tata-1mg Knowledge Graph&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Drug ⇋ Disease&amp;nbsp;⇋ Symptom&lt;/div&gt;&lt;div&gt;Drug ⇋ Side effects, Uage, others&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Knowledge Graph from drug description&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-13" value="GK2:&amp;nbsp;&lt;b&gt;Raw Clinical Data&amp;nbsp;→ CDM Compliant Tables&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Digitized data: Unstructured&lt;/li&gt;&lt;li&gt;Structured Data: No Open Source drug related information&lt;/li&gt;&lt;li&gt;Mapping: Structured Data to CDM&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="10" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-14" value="Activities: GK2&lt;br&gt;&lt;ul&gt;&lt;li&gt;Digitized Data&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Annotation Tools: Validate, ML Performance, Error Resolution, Auditing&lt;/li&gt;&lt;li&gt;Models: NLP (Transformers, LLMs, Statistical Models)&lt;/li&gt;&lt;li&gt;Drug Names: Tata-1mg&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="95" width="430" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-15" value="So Far:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Benchmark: Mistral-7B, Llama-7B&lt;/li&gt;&lt;li&gt;Annotation tool to validate and improve&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-16" value="Tata-1mg: &lt;b&gt;JSON Schema&amp;nbsp;→ Database Schema&amp;nbsp;→ Knowledge Graph Schema&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So Far:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Web Scrapper (~250K)&lt;/li&gt;&lt;li&gt;Scrap&amp;nbsp;→ JSON&amp;nbsp;→ CSV (&lt;b&gt;to analyse&lt;/b&gt;)&lt;/li&gt;&lt;li&gt;Raw JSON&amp;nbsp;→ CLean JSON&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Strength, Unit, Strength Value, Active Ingredient (AI), etc.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Clean JSON&amp;nbsp;→ Transformed JSON&lt;/li&gt;&lt;li&gt;Transformed JSON&amp;nbsp;→ mySQL Database&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Drug Name (DN), Description, Specification, etc.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Active Ingredient&amp;nbsp;→ PubChem ID (&lt;b&gt;again&lt;/b&gt;)&lt;/li&gt;&lt;li&gt;Network Analysis&lt;/li&gt;&lt;ul&gt;&lt;li&gt;DN-AI, AI-AI, DN-DN&lt;/li&gt;&lt;li&gt;Scale Free: 1, 0, 0&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;NRCS&amp;nbsp;→ CDM: AI&amp;nbsp;→ Substance&amp;nbsp;→ Athena&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="450" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-17" value="To Do:&lt;br&gt;Web Application: Input&amp;nbsp;→ Predict (LLM-Backend)&amp;nbsp;→ Show&amp;nbsp;→ Backend&amp;nbsp;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-21" value="in-house" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="330" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-22" value="public" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="330" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-23" value="&lt;ul&gt;&lt;li&gt;Scrapper&lt;/li&gt;&lt;li&gt;Formatting&lt;/li&gt;&lt;li&gt;Harmonization&lt;/li&gt;&lt;li&gt;Mappings&lt;/li&gt;&lt;li&gt;in-house database&lt;/li&gt;&lt;li&gt;Local Dump (Weekly)&lt;/li&gt;&lt;li&gt;Local Update (6 months)&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZKTxkZy2IIhL_s-FV2-24" value="&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Controlled Access&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;DuA&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Legal &amp;amp; Regulations&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Web Application&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;API&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Visulization&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="200" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
