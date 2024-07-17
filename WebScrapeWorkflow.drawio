@@ -1,0 +1,112 @@
+<mxfile host="Electron" modified="2024-07-01T11:45:52.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="JhSiXgJkzCoChAIvQyo-" version="24.6.4" type="device">
+  <diagram name="Page-1" id="afLDgKXAPTkn0zOCBvZq">
+    <mxGraphModel dx="1619" dy="1318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-684" y="-601" width="459" height="433" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-1" target="No5NVaUMK9qabX3Vtc5u-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-1" value="Web Scraper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-534.87" y="-590" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-2" target="No5NVaUMK9qabX3Vtc5u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-2" value="Extract Drug URLs from the Website&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-544.74" y="-545" width="96.75" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-5" target="No5NVaUMK9qabX3Vtc5u-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-5" target="No5NVaUMK9qabX3Vtc5u-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-5" value="Brand Drug URLs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-543.84" y="-480" width="94.94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-8" target="No5NVaUMK9qabX3Vtc5u-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-613" y="-114.14285714285711" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-8" value="250632 Valid URLs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="-433" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-10" target="No5NVaUMK9qabX3Vtc5u-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-10" value="1695 Invalid URLs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-426" y="-432" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-13" target="No5NVaUMK9qabX3Vtc5u-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-13" target="No5NVaUMK9qabX3Vtc5u-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-13" value="Google Search API to find correct URLs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-426" y="-373" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-15" value="Corrected&amp;nbsp;&lt;div&gt;1675 URLs&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="-288" width="91" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-17" value="20 URLs&amp;nbsp;&lt;div&gt;couldn&#39;t be solved&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-356" y="-288" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-20" value="Scraping drug data&lt;div&gt;(252307 Total URLs)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="-220" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-21" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-15" target="No5NVaUMK9qabX3Vtc5u-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-477" y="-161" as="sourcePoint" />
+            <mxPoint x="-542" y="-250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-20" target="No5NVaUMK9qabX3Vtc5u-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-608" y="-109" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-24" target="No5NVaUMK9qabX3Vtc5u-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-24" value="Raw JSON files (~35GB)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="-155" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-26" target="No5NVaUMK9qabX3Vtc5u-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-26" value="Filtered JSON files&lt;div&gt;(~1.77 GB)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="-108" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No5NVaUMK9qabX3Vtc5u-30" target="No5NVaUMK9qabX3Vtc5u-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-608" y="112.47058823529414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-30" value="Processed JSON" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="-42" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-32" value="We select required data from the Raw JSON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-517.87" y="-107" width="149.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-34" value="Database&lt;div&gt;(PostgreSQL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="54.000588235294146" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-35" value="Write what happens in process script" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-499.43" y="-27" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-36" value="&lt;div&gt;~130KB per file&lt;/div&gt;Time Taken: 5.85 hrs&lt;div&gt;Concurrent Requests: 16&lt;/div&gt;&lt;div&gt;(Weekly/Monthly) - diff&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="-393" y="-235" width="164" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="No5NVaUMK9qabX3Vtc5u-38" value="Time Taken: ~30 min&lt;div&gt;(Daily)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="-447.99" y="-554.5" width="164" height="67" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
