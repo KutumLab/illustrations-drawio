@@ -1,0 +1,82 @@
+<mxfile host="Electron" modified="2024-08-06T08:18:30.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="qZyyOxKIItfS-JSo4_2f" version="23.1.5" type="device">
+  <diagram name="Page-1" id="j3gXnySYExSdluAWOsNW">
+    <mxGraphModel dx="955" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-29" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="820.62" y="59" width="340" height="351" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Jv8GJ374UcYsmmEtzh2Z-10" target="Jv8GJ374UcYsmmEtzh2Z-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-10" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="600.62" y="110" width="180" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jv8GJ374UcYsmmEtzh2Z-1" target="Jv8GJ374UcYsmmEtzh2Z-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-1" value="Anonymized&lt;br&gt;Out-patient Digitized Health Records&lt;br&gt;(Excel)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="608.12" y="2.75" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jv8GJ374UcYsmmEtzh2Z-4" target="Jv8GJ374UcYsmmEtzh2Z-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-4" value="Data Validation&lt;br&gt;Field &amp;amp; Value&lt;br&gt;(LinkML)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="630.62" y="226.5" width="120" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jv8GJ374UcYsmmEtzh2Z-6" target="Jv8GJ374UcYsmmEtzh2Z-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-6" value="DHR Schema&lt;br&gt;(LinkML)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="630.62" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-8" value="OMOP CDM Schema &lt;br&gt;Data Table&lt;br&gt;(LinkML)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="615.62" y="329.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-12" value="Raw Field Level Mapping" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=south;rotation=-90;fontSize=18;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="430.63" y="239.38" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jv8GJ374UcYsmmEtzh2Z-16" target="Jv8GJ374UcYsmmEtzh2Z-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-16" value="OMOP CDM Notes Digitized Health Records" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="920.62" y="319.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Jv8GJ374UcYsmmEtzh2Z-18" target="Jv8GJ374UcYsmmEtzh2Z-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Jv8GJ374UcYsmmEtzh2Z-18" target="Jv8GJ374UcYsmmEtzh2Z-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-18" value="ML/AI&amp;nbsp;&lt;br&gt;NLP/LLM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="920.62" y="208.75" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-20" value="OMOP CDM &lt;br&gt;Data Tables&lt;br&gt;Values" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1005.62" y="82.75" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-24" value="OMOP CDM &lt;br&gt;Data Tables&lt;br&gt;Fields" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="830.62" y="82.75" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-30" value="Extraction and Mapping from CDM Notes to CDM Data Tables: Fields and Values" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;direction=south;rotation=0;fontSize=18;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="820.62" y="10" width="340" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-46" value="Anonymized&lt;br&gt;Out-patient Digitized Health Records&lt;br&gt;(Excel)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-49" value="Data Batch 1" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="158.75" width="110" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-50" value="Data Batch 2" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="238.75" width="110" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-51" value="Data Batch 3" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="319.5" width="110" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv8GJ374UcYsmmEtzh2Z-52" value="Patient Level Schema (LinkML)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="670" y="253" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
